@@ -1,0 +1,6 @@
+{
+  "name": "Alive Podcast",
+  "description": "High-converting, modern dark-mode landing page concept for Alive Podcast (Ethiopian media & business podcast hosted by Abrham Fantu). Built to attract corporate sponsors, display sub-channels, and capture leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
